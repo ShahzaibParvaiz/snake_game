@@ -145,6 +145,6 @@ int main(int argc, char *argv[]) { //why main taking args - can take when main i
     SDL_DestroyRenderer(renderer);
     SDL_DestroyWindow(window);
     SDL_Quit();
-    
+    //todo
     return 0;
 }
